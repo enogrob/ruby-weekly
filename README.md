@@ -11,10 +11,14 @@ Solution Integrator Experienced - Certified by Ericsson
 
 Learn everything you need to about the subject of this `Tutorial` project.
 
-[Homepage](https://tutorial.com)
+[Homepage](https://rubyweekly.com/latest)
 
 ## Topics
 
-* [x][The Citatel Architecture](https://www.youtube.com/watch?v=-NMDqqW1uCE&feature=youtu.be)
-* [ ][Our Rails Upgrade Process](https://www.fastruby.io/blog/rails/upgrades/our-rails-upgrade-process.html)
+541
+
+* [ ] [057 - Matt Swanson, Creator of Boring Rails](https://railswithjason.simplecast.fm/matt-swanson)
+* [~] [How to Dockerize a Rails application](https://www.codewithjason.com/dockerize-rails-application/)
+* [ ] [Introduction to Ruby on Rails Patterns and Anti-patterns](https://blog.appsignal.com/2020/08/05/introduction-to-ruby-on-rails-patterns-and-anti-patterns.html)
+* [x] [RubyMine- The Ruby on Rails IDE](https://www.jetbrains.com/ruby/)
 ```
