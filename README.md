@@ -21,4 +21,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 * [x] [How to Dockerize a Rails application](https://www.codewithjason.com/dockerize-rails-application/)
 * [x] [Introduction to Ruby on Rails Patterns and Anti-patterns](https://blog.appsignal.com/2020/08/05/introduction-to-ruby-on-rails-patterns-and-anti-patterns.html)
 * [x] [RubyMine- The Ruby on Rails IDE](https://www.jetbrains.com/ruby/)
-```
+
+542
+* [x] [A Sinatra API interface to Ruby versions, releases and branches](https://github.com/epistrephein/rubies)
+* [_] [How Sidekiq Works](https://pdabrowski.com/articles/how-sidekiq-really-works)
