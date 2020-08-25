@@ -24,4 +24,4 @@ Learn everything you need to about the subject of this `Tutorial` project.
 
 542
 * [x] [A Sinatra API interface to Ruby versions, releases and branches](https://github.com/epistrephein/rubies)
-* [_] [How Sidekiq Works](https://pdabrowski.com/articles/how-sidekiq-really-works)
+* [~] [How Sidekiq Works](https://pdabrowski.com/articles/how-sidekiq-really-works)
