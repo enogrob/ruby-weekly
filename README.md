@@ -30,3 +30,5 @@ Learn everything you need to about the subject of this `Tutorial` project.
 Articles
 * [x] [Scoped Active Record Associations](https://remimercier.com/scoped-active-record-associations/)
 * [x] [Functional Programming in Ruby — State](https://medium.com/@baweaver/functional-programming-in-ruby-state-5e55d40b4e67)
+* [ ] [Functional Programming in Ruby — Closures](https://medium.com/@baweaver/functional-programming-in-ruby-closures-ac80547eb40d)
+* [ ] [Functional Programming in Ruby — Flow Control](https://medium.com/@baweaver/functional-programming-in-ruby-flow-control-565bbdcdf2a2)
