@@ -25,7 +25,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 542
 * [x] [A Sinatra API interface to Ruby versions, releases and branches](https://github.com/epistrephein/rubies)
 * [~] [How Sidekiq Works](https://pdabrowski.com/articles/how-sidekiq-really-works)
-* [_] [NoRuKo Main track](https://www.youtube.com/watch?v=UUK65-8iLms)
+* [x] [NoRuKo Main track](https://www.youtube.com/watch?v=UUK65-8iLms)
 
 Articles
 * [x] [Scoped Active Record Associations](https://remimercier.com/scoped-active-record-associations/)
